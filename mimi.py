@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("🤖 MIMI AI Assistant")
 
 # ========== আপনার API কী এখানে বসান ==========
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"   # <-- এখানে আপনার আসল API কী দিন
+GEMINI_API_KEY = "AQ.Ab8RN6IMZjfKl-h3nZ3HIFIcNO1VCOQ-iSkvfeagAyT5TpnKjA"   # <-- এখানে আপনার আসল API কী দিন
 
 # ========== ক্লায়েন্ট তৈরি ==========
 client = OpenAI(
