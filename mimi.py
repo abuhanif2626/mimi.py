@@ -13,7 +13,7 @@ st.title("🤖 MIMI AI Assistant")
 
 # Gemini Client
 client = OpenAI(
-    api_key=st.secrets["AQ.Ab8RN6IMZjfKl-h3nZ3HIFIcNO1VCOQ-iSkvfeagAyT5TpnKjA"],
+    api_key=["AQ.Ab8RN6IMZjfKl-h3nZ3HIFIcNO1VCOQ-iSkvfeagAyT5TpnKjA"],
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
