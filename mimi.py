@@ -4,7 +4,7 @@ from gtts import gTTS
 import tempfile
 
 client = OpenAI(
-    api_key="AIzaSyCf5WgWIsqxdOVCM92vUN3xXVT1L8Plfa8",
+    api_key="AQ.Ab8RN6IMZjfKl-h3nZ3HIFIcNO1VCOQ-iSkvfeagAyT5TpnKjA",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
